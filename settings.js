@@ -58,7 +58,7 @@ global.vcardowner = ['249 11 241 7493'] //ur owner number
 global.ownername = " 𝐈𝐃𝐂-𝐒𝐓𝐀𝐑٫" //ur owner name
 global.ytname = "YT: IDC_AZH" //ur yt chanel name
 global.socialm = "insta: IDC_AZH" //ur github or insta name
-global.location = "America, California ,White isle " //ur location
+global.location = "جزيره الواق واق " //ur location
 
 //bot bomdy 
 global.owner = ['𝐒.𝐓.𝐀.𝐑🌟𝐊𝐈𝐍𝐆𝐃𝐎𝐌']
@@ -111,14 +111,14 @@ global.mess = {
     owner: 'هذا الآمر لدراغون😏',
     group: 'دراغون-قرووب',
     private: 'دراغون-خاص',
-    bot: 'انا بسسييي',
-    wait: 'ليه مستعجل كدا',
-    linkm: 'اين الرابط',
+    bot: 'نعم',
+    wait: 'ليه مستعجل كذا',
+    linkm: 'الرابط',
     error: 'اععععع علقت',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'مع السلامه',
     ban: 'خد بان يابن الحلال',
     nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
-    banChat: 'انا اتحظرتتتتتتتتت'
+    banChat 'خخخخخخخخخخخخخخخ'
 }
     global.limitawal = {
     premium: "Infinity",
